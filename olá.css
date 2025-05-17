@@ -1,0 +1,56 @@
+body {
+  background-image: url(https://i.ibb.co/mVwX1Cf6/BB.jpg);
+  background-position: center;
+
+}
+
+h1,
+h2 {
+  text-align: center;
+  color: #e6e1d3;
+  font-family: Helvetica;
+}
+#temp {
+  text-align: center;
+  color: aliceblue;
+  font-family: "Times New Roman";
+  font-style: italic;
+}
+.menu {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgba(0, 85, 255, 0.4);
+  backdrop-filter: blur(3px);
+  border-radius: 10px;
+  padding: 20px;
+  max-width: 500px;
+  
+ 
+
+}
+.flavor, .dessert {
+  text-align: center;
+  color: antiquewhite;
+  font-family: Arial;
+  font-size: large;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  
+} 
+.price {
+  text-align: center;
+  color: antiquewhite;
+  font-family: Arial;
+  font-size: large;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.item {
+  text-align: center;
+  color: antiquewhite;
+  font-family: Arial;
+  font-size: large;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
